@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+tsquares/__init__.py
+tsquares/tsquares.py
+tsquares.egg-info/PKG-INFO
+tsquares.egg-info/SOURCES.txt
+tsquares.egg-info/dependency_links.txt
+tsquares.egg-info/top_level.txt

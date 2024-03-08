@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: tsquares
+Version: 0.0.2
+Summary: Simple nodule to calculate square of figures.
+Home-page: https://github.com/Lex1k0n/NewLib
+Author: lex1k0n
+Author-email: qwertymaxqazwsx@gmail.com
+Project-URL: GitHub, https://github.com/Lex1k0n/NewLib
+Keywords: files speedfiles
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
