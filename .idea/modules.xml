@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NewLib.iml" filepath="$PROJECT_DIR$/.idea/NewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fastApi.iml" filepath="$PROJECT_DIR$/.idea/fastApi.iml" />
     </modules>
   </component>
 </project>
